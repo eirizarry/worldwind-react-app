@@ -76,7 +76,7 @@ export default class App extends Component {
       <div>
         <NavBar 
             logo=''
-            title='WorldWind on Endia\'s GitHub Repository'
+            title='WorldWind on Endias GitHub Repository'
             href='https://github.com/emxsys/worldwind-react-app'
             items={navbarItems}
             search={navbarSearch} />
